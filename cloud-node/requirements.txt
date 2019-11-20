@@ -101,5 +101,5 @@ wcwidth==0.1.7
 websocket-client==0.56.0
 websocket-server==0.4
 websockets==7.0
-Werkzeug==0.15.2
+Werkzeug==0.15.3
 zope.interface==4.6.0
