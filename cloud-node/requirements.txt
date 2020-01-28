@@ -83,7 +83,7 @@ SimpleWebSocketServer==0.1.1
 six==1.11.0
 tb-nightly==1.14.0a20190319
 tensorboard==1.13.1
-tensorflow==1.13.1
+tensorflow==1.15.2
 tensorflow-estimator==1.13.0
 tensorflow-estimator-2.0-preview==1.14.0.dev2019040400
 tensorflow-hub==0.3.0
