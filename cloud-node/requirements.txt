@@ -100,6 +100,6 @@ uWSGI==2.0.18
 wcwidth==0.1.7
 websocket-client==0.56.0
 websocket-server==0.4
-websockets==7.0
+websockets==9.1
 Werkzeug==0.15.2
 zope.interface==4.6.0
